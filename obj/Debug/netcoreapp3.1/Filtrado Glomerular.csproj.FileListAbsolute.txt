@@ -1,0 +1,15 @@
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.exe
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.deps.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.runtimeconfig.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.runtimeconfig.dev.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.dll
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\Filtrado Glomerular.pdb
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.csprojAssemblyReference.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado_Glomerular.Form1.resources
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.csproj.GenerateResource.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.AssemblyInfoInputs.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.AssemblyInfo.cs
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.csproj.CoreCompileInputs.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.dll
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.pdb
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado Glomerular.genruntimeconfig.cache

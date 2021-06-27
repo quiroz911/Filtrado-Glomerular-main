@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FiltradoGlomerular/1.0.0": {
+        "runtime": {
+          "FiltradoGlomerular.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FiltradoGlomerular/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

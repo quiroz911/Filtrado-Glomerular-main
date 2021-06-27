@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Filtrado_Glomerular</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ApplicationIcon>kit-de-primeros-auxilios.ico</ApplicationIcon>
+    <StartupObject>Filtrado_Glomerular.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

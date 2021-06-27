@@ -1,0 +1,30 @@
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.exe
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.deps.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.runtimeconfig.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.runtimeconfig.dev.json
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.dll
+D:\Filtrado Glomerular\Filtrado Glomerular\bin\Debug\netcoreapp3.1\FiltradoGlomerular.pdb
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csprojAssemblyReference.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\Filtrado_Glomerular.Form1.resources
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csproj.GenerateResource.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.AssemblyInfoInputs.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.AssemblyInfo.cs
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csproj.CoreCompileInputs.cache
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.dll
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.pdb
+D:\Filtrado Glomerular\Filtrado Glomerular\obj\Debug\netcoreapp3.1\FiltradoGlomerular.genruntimeconfig.cache
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.exe
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.deps.json
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.runtimeconfig.json
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.runtimeconfig.dev.json
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.dll
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\bin\Debug\netcoreapp3.1\FiltradoGlomerular.pdb
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csprojAssemblyReference.cache
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\Filtrado_Glomerular.Form1.resources
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csproj.GenerateResource.cache
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.AssemblyInfoInputs.cache
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.AssemblyInfo.cs
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.csproj.CoreCompileInputs.cache
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.dll
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.pdb
+C:\Users\juanp\Documents\Filtrado-Glomerular-main\obj\Debug\netcoreapp3.1\FiltradoGlomerular.genruntimeconfig.cache
